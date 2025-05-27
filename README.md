@@ -36,4 +36,4 @@ This repository highlights my Manual Testing Project on [Proud Cloud](https://pr
 📌 [Test Cases](https://docs.google.com/spreadsheets/d/1q1-FxKJM_x1PJHWjGybdvjWT548UDZXbZbdKlIzdeKQ/edit?usp=sharing)<br>
 
 ### 💬 Conclusion
-Thorough manual testing revealed that even small issues can impact usability. Continuous testing efforts are ensures ongoing improvements and a better end-user experience.
+Thorough manual testing revealed that even small issues can impact usability. Continuous testing effort ensures ongoing improvements and a better end-user experience.
