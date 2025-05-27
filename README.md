@@ -25,7 +25,7 @@ This repository highlights my Manual Testing Project on [Proud Cloud](https://pr
 📌 Tested how a real user might interact with the website (clicking random links, entering invalid data)<br>
 
 ### 🔄 Software Testing Life Cycle (STLC) Implementation
-📌 Requirement Analysis: Reviewed the features and expected behaviour of the app to understand how it should function from user's perspective.<br>
+📌 Requirement Analysis: Reviewed the features to understand how it should function from user's perspective.<br>
 📌 Test Planning: Created a basic test plan as a guide for manual testing.<br>
 📌 Test Case Development: Documented detailed test cases and test data using Google Sheets.<br>
 📌 Test Execution: Performed hands-on testing on Mac OS 15.1 device.<br>
